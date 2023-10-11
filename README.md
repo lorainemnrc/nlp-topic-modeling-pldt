@@ -1,3 +1,5 @@
+![img_banner2](https://github.com/lorainemnrc/nlp-topic-modeling-pldt/assets/23328647/19eacd06-f0ed-4e89-9513-33150bff0be4)
+
 <h1 style="color: #1048CB"><b>Overview</b></h1>
 
 <p align="justify"> &emsp;
