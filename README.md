@@ -13,9 +13,7 @@
 
 <h1 style="color: #1048CB"><b>Data Source</b></h1>
 
-<p align="justify"> &emsp;
 This work focuses on uncovering customer concerns based on people's tweets to PLDT's Customer Service Accounts, and only tweets within the last 7 days from 29 November 2022 were considered. The whole extraction, transformation, and loading of data is written in the `tweets_etl.py` file, which is used in this notebook as a module for the data preparation process.
-</p>
 
 The tweets collected have 14 features and a brief definition of each are listed as follows:
 
